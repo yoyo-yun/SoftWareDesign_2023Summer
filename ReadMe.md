@@ -18,7 +18,13 @@
     **https://b23.tv/Iv6pYs?share_medium=android&share_source=qq&bbid=XYE25E5EC411ABDF7202652CB1853C2911687&ts=1626529918336**
     
   - **IDEA教程**
+  
     **https://b23.tv/vYBCnX?share_medium=android&share_source=qq&bbid=XYE25E5EC411ABDF7202652CB1853C2911687&ts=1626529965946**
 
   - **ArrayList增删改查**
+  
     **https://www.runoob.com/java/java-arraylist.html**
+    
+  - **IDEA连接数据库mysql的方法**
+  
+    **https://blog.csdn.net/summerking/article/details/105792214**
